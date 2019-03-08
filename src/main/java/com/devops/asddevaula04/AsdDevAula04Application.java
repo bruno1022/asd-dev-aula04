@@ -46,7 +46,7 @@ public class AsdDevAula04Application {
 		
 		SpringApplication.run(AsdDevAula04Application.class, args);
 		
-		System.out.println(3000+"\t =\t "+AsdDevAula04Application.toRoman(199));   
+		System.out.println(3000+"\t =\t "+AsdDevAula04Application.toRoman(3000));   
 	    
 	}
 
